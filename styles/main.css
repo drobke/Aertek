@@ -73,6 +73,7 @@ header .forma .login.ok button .spinner {
 }
 header .forma .login .paragraph {
     font-size: .8em;
+    padding: 1%;
 }
 header .forma .login .paragraph span {
     font-size: 1.3em;
