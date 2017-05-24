@@ -42,7 +42,7 @@ header .forma {
 header .forma .login {
     border-radius: 2px 2px 5px 5px;
     padding: 10px 10px 10px 20px;
-    width: 90%;
+    width: 100%;
     max-width: 370px;
     max-height: auto;
     background: #fff;
